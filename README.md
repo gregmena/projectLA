@@ -4,7 +4,7 @@
 
 We haz maps for you LA!
 
-[Test Interface Link](http://162.243.139.225)
+[Project Website](http://162.243.139.225)
 
 Directions
 =========
